@@ -1,0 +1,15 @@
+
+h3{margin: 0 0 10px 0;
+  padding: 10px 15px;
+  border-bottom: solid 1px #eee;
+  background: #607D8B;
+  color: #fff;
+  font-weight: 600;}
+.error{padding: 10px; margin: 0 0 15px 0; border-radius: 5px; color: red; font-size: 12px; border:solid 1px red;  background: rgba(red, 0.2); transition: all ease-in 0.2s;}
+.form-group{margin-bottom: 25px;}
+.form-group label{display: block; text-transform: uppercase; font-size: 11px; font-weight: 600; padding-bottom: 5px;}
+.form-group .form-control{border-radius: 5px; padding: 10px; border:solid 1px #eee;  width: 100%; box-sizing: border-box;}
+.btn{border-radius: 5px; padding: 10px 20px; color: #fff; background-color: blue; border:solid 1px #eee}
+.btn-secondary{background-color: crimson; }
+
+.form-wrapper{border:solid 1px #eee; padding:15px 20px;  border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1); max-width: 500px; margin: 0 auto;}
