@@ -28,7 +28,9 @@ const FormPersonalDetails = ({values, handleChange, prevStep, nextStep}) => {
             <div>
             <h3>Enter More details</h3>
             <div className="form-wrapper">
-                <div className="error"> {error}</div>
+                {
+                   (error === "") ? "" : <div className="error"> {error}</div>
+                }
 
                  <div className="form-group">
                     <label>Occupation</label>
