@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-survey-form/static/css/main.47ceeb60.chunk.css",
+    "main.js": "/react-survey-form/static/js/main.bca52e8d.chunk.js",
+    "main.js.map": "/react-survey-form/static/js/main.bca52e8d.chunk.js.map",
+    "runtime-main.js": "/react-survey-form/static/js/runtime-main.a42f77e6.js",
+    "runtime-main.js.map": "/react-survey-form/static/js/runtime-main.a42f77e6.js.map",
+    "static/js/2.98ce46be.chunk.js": "/react-survey-form/static/js/2.98ce46be.chunk.js",
+    "static/js/2.98ce46be.chunk.js.map": "/react-survey-form/static/js/2.98ce46be.chunk.js.map",
+    "index.html": "/react-survey-form/index.html",
+    "precache-manifest.52077361227a9a6fe6c58441eec94a3e.js": "/react-survey-form/precache-manifest.52077361227a9a6fe6c58441eec94a3e.js",
+    "service-worker.js": "/react-survey-form/service-worker.js",
+    "static/css/main.47ceeb60.chunk.css.map": "/react-survey-form/static/css/main.47ceeb60.chunk.css.map",
+    "static/js/2.98ce46be.chunk.js.LICENSE.txt": "/react-survey-form/static/js/2.98ce46be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a42f77e6.js",
+    "static/js/2.98ce46be.chunk.js",
+    "static/css/main.47ceeb60.chunk.css",
+    "static/js/main.bca52e8d.chunk.js"
+  ]
+}
